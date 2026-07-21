@@ -21,7 +21,7 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0419_000.yaml, hash: 'sha256:9e14042518f69f483f8a494139c49d0a28a865393161564d7dc708350811d46d'}
+  - {seq: 0, filename: KR6q0419_000.yaml, hash: 'sha256:dac1f0e0aba4fbff5a7bed2ecc1f4b4f00e3867b39b5c1f34e3e98929741fdb3'}
   - {seq: 1, filename: KR6q0419_001.yaml, hash: 'sha256:98e51b4e0a20ec4ca82a973d10a66086bcc0b60f4d402a55cf6bcbf4657765b7'}
   - {seq: 2, filename: KR6q0419_002.yaml, hash: 'sha256:9d08ce2ad5af67dc07240341bdc8aee7f73fc5688ff99b61f3a437f1a1ef3fc9'}
   - {seq: 3, filename: KR6q0419_003.yaml, hash: 'sha256:563eb91e50581ff3be084b10ad8c07bad5da236055cd8a0d9b171f50d079d5fe'}
@@ -29,7 +29,7 @@ assets:
   - {seq: 5, filename: KR6q0419_005.yaml, hash: 'sha256:067c7f5e858ccc0a6eefb7411d255bc608e5f57ea5822100f435918978a6bace'}
   - {seq: 6, filename: KR6q0419_006.yaml, hash: 'sha256:933d6d3c2fc78a201aa8f5f960237082aea8f90d0af7f24305274b89c6ddc5d3'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0419_000.markers.yaml, hash: 'sha256:ac122bd4c162c8f35097327233f5a1073377a17360cfffc1183c87f65968b4b6'}
+  - {seq: 0, role: markers, filename: assets/KR6q0419_000.markers.yaml, hash: 'sha256:50cba983d7a1c9c9b8b17961385edb4cb152a33d3d46444e4c7085cb0c0874fe'}
   - {seq: 1, role: markers, filename: assets/KR6q0419_001.markers.yaml, hash: 'sha256:524178f88d1f27007fcdf988b3dd2bb2d1f751d43a7b87d44215ff8e8bf2cef7'}
   - {seq: 2, role: markers, filename: assets/KR6q0419_002.markers.yaml, hash: 'sha256:33c6c5cea736331e5b7ef9187ae208cff3a8abbb227e15c4ec43b1ae778bd273'}
   - {seq: 3, role: markers, filename: assets/KR6q0419_003.markers.yaml, hash: 'sha256:f802d088616498557ad7689e16c1baac6e25d106643f26020b0663dee8c90c2e'}
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0419_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 雪關和尚語錄序
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0419_J_000-mulu-2
     span:
-    - front
+    - body
     - 7
     - 7
   label: 雪關和尚語錄目次
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0419_J_000-mulu-3
     span:
-    - front
+    - body
     - 70
     - 70
   label: 博山雪關智誾禪師傳
@@ -2007,7 +2007,7 @@ table_of_contents:
   label: 雪和尚語錄跋
   type: mulu
   level: 1
-hash: sha256:8586a34617d90160e65a8de6feaa451f58ebe3247c5482f8ba5b12c20eb03763
+hash: sha256:f5dcb61ebc4df853d29ddf186e077a0551e101b978fd0ff7f187b01975623f94
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
